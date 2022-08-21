@@ -43,7 +43,7 @@ While working on this project i learnt more about postioning in css, html detail
 
 ### Useful resources
 
-- (https://www.w3schools.com/tags/tag_details.asp) - This is an amazing article which helped me finally understand how to use the HTML <details> tag . I'd recommend it to anyone still learning this concept.
+- (https://www.w3schools.com/tags/tag_details.asp) - This is an amazing article which helped me finally understand how to use the HTML details tag . I'd recommend it to anyone still learning this concept.
 
 ## Author
 
@@ -51,4 +51,4 @@ While working on this project i learnt more about postioning in css, html detail
 
 ## Acknowledgments
 
-Thanks to my tutor  [Adetutu Gbangbola](https://github.com/Adetutu777)
+Thanks to my tutor  [Adetutu Gbangbola](https://github.com/Adetutu777).
