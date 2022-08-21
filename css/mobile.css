@@ -1,0 +1,71 @@
+/* media query mobile */
+body{
+    margin: auto;
+}
+.container{
+    background-color: #fff;
+    background-position:center top;
+    background-repeat: no-repeat;
+    width:322px;
+    border-radius: 12px;  
+    max-width: 310px;
+    height:80vh;
+    display: block;  
+    overflow: hidden;
+    margin: 9rem auto;
+}
+.illustration {
+    display: none;
+}
+.pattern{
+    width: 240px;
+    position: absolute;
+    top: -138px;
+    left: 32px;
+}
+.cube{
+    position: relative;
+    width:300px;
+    max-width:350px ;
+    margin: 3px auto;
+    height: 100vh;
+}
+.cube::after{
+    content: url(../images/illustration-woman-online-mobile.svg);
+    position: absolute;
+    width: 70%;
+    top: -92px;  
+    left: 49px;   
+    overflow: hidden;
+}
+.card-details{
+    margin-top: 9rem;
+    line-height: 1.2rem;
+}
+h1{
+    text-align: center;
+}
+fieldset{
+    width: 100%;
+    position: relative;
+    margin-left: 0.5rem;
+    padding: 0.7rem;
+    margin-bottom: 0;
+}
+fieldset:before {
+    width: 86%;
+}
+summary{
+    font-size: 0.88rem;
+    width: 90%;
+}
+details p{
+    font-size: 0.8rem;
+    line-height: 1.2rem;
+    width: 100%;
+}
+summary::after{
+    content: url(../images/icon-arrow-down.svg);
+    position: absolute;
+    right: -1rem;
+}
