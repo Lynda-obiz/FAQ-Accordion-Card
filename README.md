@@ -21,8 +21,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 ### Screenshot
 
 ![](./images/screenshot.jpg)
-![](./images/screenshot2.jpg)
-
 
 ### Links
 
@@ -35,7 +33,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ### What I learned
 
